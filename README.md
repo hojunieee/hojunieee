@@ -4,7 +4,7 @@
       2. Deep Learning
       3. Any real life struggle that is critical, expandable, and requires technology to be solved.
       
-- 🌱 I’m currently learning about computer vision skills via Udacity.
+- 🌱 I’m currently studying about computer vision skills via Udacity.
 - 💞️ I’m looking to collaborate on anything that implements ML architecture on a real-life dataset.
 - 📫 You can reach me via hojune.kim@gmail.com
 
