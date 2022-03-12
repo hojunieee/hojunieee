@@ -5,8 +5,8 @@
       3. Any real life struggle that is critical, expandable, and requires technology to be solved.
       
 - 🌱 I’m currently learning 
-      1. Computer Vision. (Udacity)
-      2. Basic Machine Learning algorithm (Textbooks and Coursera)
+      1. Computer vision skills 
+      2. Basic machine learning algorithms
       3. How to use git
    
 - 💞️ I’m looking to collaborate on anything that implements ML architecture on a real-life dataset.
