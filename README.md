@@ -1,2 +1,1 @@
-- This is a repository connected with leetcode.
-- Every time I solve a problem on leetcode, it gets automatically committed.
+- Hello, this is Hojune's Github.
