@@ -13,8 +13,7 @@ class Solution:
         rabbit = head
         turtle = head
                 
-        while rabbit.next != None and rabbit.next.next != None and rabbit.next.next.next != None:
-            rabbit = rabbit.next
+        while rabbit.next != None and rabbit.next.next != None:
             rabbit = rabbit.next
             rabbit = rabbit.next
             turtle = turtle.next
