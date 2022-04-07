@@ -21,14 +21,14 @@ class Solution:
             if rabbit.next == turtle.next:
 
                 
-                keepTrack = list()
+                keepTrack = dict()
                 key = head
                 
                 while key.next != None:
                     if key.next in keepTrack:
                         return key.next
                     else:
-                        keepTrack.append(key)
+                        keepTrack[key] =0
                         key = key.next
         else:
             return None
