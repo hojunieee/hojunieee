@@ -12,14 +12,11 @@ class Solution:
         
         rabbit = head
         turtle = head
-                
-        while rabbit.next != None and rabbit.next.next != None:
-            rabbit = rabbit.next
-            rabbit = rabbit.next
+        
+        while rabbit!= None and rabbit.next != None:
+            rabbit = rabbit.next.next
             turtle = turtle.next
-            
-            if rabbit.next == turtle.next:
+            if rabbit == turtle:
                 return True
-            
         return False
             
